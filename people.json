@@ -1,0 +1,50 @@
+[
+  {
+    "id": "p1",
+    "name": "Aisha",
+    "age": 22,
+    "city": "Toronto",
+    "bio": "CS student who hacks on weekends, drinks too much chai, and hosts board game nights.",
+    "interests": ["hackathons", "board games", "chai", "photography"]
+  },
+  {
+    "id": "p2",
+    "name": "Leo",
+    "age": 24,
+    "city": "New York",
+    "bio": "Backend engineer who runs in Central Park and is trying to get better at cooking.",
+    "interests": ["running", "cooking", "APIs", "indie music"]
+  },
+  {
+    "id": "p3",
+    "name": "Maya",
+    "age": 21,
+    "city": "Toronto",
+    "bio": "Design + data nerd. Loves thrift shopping, film cameras, and late-night study playlists.",
+    "interests": ["design", "film photography", "data viz", "thrifting"]
+  },
+  {
+    "id": "p4",
+    "name": "Omar",
+    "age": 23,
+    "city": "Chicago",
+    "bio": "ML hobbyist, gym regular, and pickup soccer captain. Always looking for a new coffee shop.",
+    "interests": ["machine learning", "soccer", "coffee", "gym"]
+  },
+  {
+    "id": "p5",
+    "name": "Priya",
+    "age": 25,
+    "city": "Remote",
+    "bio": "Product manager who journals, hikes, and wants friends to try new restaurants with.",
+    "interests": ["hiking", "food", "journaling", "startups"]
+  },
+  {
+    "id": "p6",
+    "name": "Sam",
+    "age": 22,
+    "city": "Boston",
+    "bio": "Game dev student. Speedruns, D&D campaigns, and building tiny Unity prototypes.",
+    "interests": ["game dev", "D&D", "speedrunning", "pixel art"]
+  }
+]

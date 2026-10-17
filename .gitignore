@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Secrets and local tooling — keep these out of git
+.env
+venv/
+node_modules/
+.next/
